@@ -4,9 +4,9 @@ This Gamer-spot is a React Replicate of rawg.io some components are implemented 
 
 ## Tech Stack
 
-**Client:** React, Redux, Chakra-UI, Vite
+**Client:** React, Redux, Chakra-UI, Vite, TypeScript
 
-**Server:** Node, Express
+**Server:** Rawg API
 
 ## Other Tools
 
