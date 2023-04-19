@@ -1,6 +1,6 @@
-# Game-Spot
+# Gamer-Spot
 
-This Game-spot is a React Replicate of rawg.io some components are implemented on this app.
+This Gamer-spot is a React Replicate of rawg.io some components are implemented on this app.
 
 ## Tech Stack
 
@@ -11,29 +11,6 @@ This Game-spot is a React Replicate of rawg.io some components are implemented o
 ## Other Tools
 
 -   react-icons@4.7.1
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 
