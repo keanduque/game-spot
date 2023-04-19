@@ -8,6 +8,10 @@ This Game-spot is a React Replicate of rawg.io some components are implemented o
 
 **Server:** Node, Express
 
+## Other Tools
+
+-   react-icons@4.7.1
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
