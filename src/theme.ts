@@ -50,6 +50,20 @@ export default theme;
 	700: "#9C4221",
 	800: "#7B341E",
 	900: "#652B19",
+
+
+
+	another : https://smart-swatch.netlify.app/#ED8936
+	50: "#ffefde",
+	100: "#fdd5b4",
+	200: "#f7ba88",
+	300: "#f19f5a",
+	400: "#ec832c",
+	500: "#d36a13",
+	600: "#a5520d",
+	700: "#763a07",
+	800: "#482200",
+	900: "#1d0a00",
 }
 
 // https://smart-swatch.netlify.app/#f46433
